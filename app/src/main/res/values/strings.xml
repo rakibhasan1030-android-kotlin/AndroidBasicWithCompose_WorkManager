@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBasicWithCompose_WorkManager</string>
+    <string name="mime_type_image">image/*</string>
+</resources>
